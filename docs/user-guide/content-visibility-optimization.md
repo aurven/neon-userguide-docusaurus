@@ -1,0 +1,54 @@
+---
+id: content-visibility-optimization
+title: Content Visibility & Optimization
+sidebar_position: 7
+---
+
+# Content Visibility & Optimization
+
+## How do I create SEO friendly title and meta description to improve story and live blog visibility?
+
+Creating SEO-friendly titles and meta descriptions is important for improving how your content performs in search engine results. Well-optimized metadata helps increase visibility and click-through rates by making your story or live blog more discoverable and appealing to readers.
+
+To add or generate SEO metadata in Neon, start by opening the Object Panel in your Story Editor or Live Blog. This is where the SEO title and meta description are stored.
+
+![Object Panel SEO](/img/userguide-screenshots/image%2078.png)
+
+Depending on the tools available in your organization, you can choose one of the following methods:
+
+### 1. Use ProActions
+
+Open the ProActions panel at the bottom of the Story Editor. From there, run either the Generate SEO Title or Generate Metadata Description function. The generated content will be automatically inserted into the Object Panel fields.
+
+![ProActions SEO](/img/userguide-screenshots/image%2079.png)
+
+### 2. Use AI Companion
+
+Select the entire text of your story, then open the AI Companion by clicking the AI icon at the bottom-right of the editor. Choose the prompt "Create SEO-friendly title" or "Create metadata description." Once generated, copy the result and paste it into the Object Panel manually.
+
+![AI Companion SEO](/img/userguide-screenshots/image%2080.png)
+
+### 3. Manual input from external SEO tools
+
+If your organization uses external SEO platforms such as Semrush, Yoast, or similar, you can generate the SEO metadata there and manually input it into the Object Panel.
+
+## How do I choose the right keywords for better search visibility?
+
+Choosing the right keywords is essential for improving how your content appears in search engine results. Keywords help search engines understand what your story is about and make it easier for the right audience to discover your content.
+
+In Neon, you can generate keyword suggestions directly from the Object Panel using the integrated OpenAI feature.
+
+![Keywords OpenAI](/img/userguide-screenshots/image%2081.png)
+
+Here's how to do it:
+
+- Open the Object Panel from your Story Editor or Live Blog.
+- In the Keywords section, click **Suggest with OpenAI**.
+- Neon will analyze your story content and provide a list of keyword suggestions tailored to the main themes and topics of your story.
+- You can review, edit, or manually enter additional keywords if needed.
+
+## Can I integrate my own existing SEO tools with Neon?
+
+If you already use external SEO platforms like Semrush, Yoast, or Ahrefs, you can continue leveraging those tools alongside Neon. While direct integration may not be available by default, you can manually copy and paste SEO titles, meta descriptions, and keyword suggestions into the **Object Panel** within the Story Editor or Live Blog.
+
+If you're interested in automating this process or exploring possible integrations with your preferred SEO platform, we encourage you to discuss it within your organization and reach out to the Neon team. We'd be happy to explore options together based on your editorial workflows and technical requirements.

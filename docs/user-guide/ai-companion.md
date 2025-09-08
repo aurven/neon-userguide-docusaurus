@@ -1,0 +1,63 @@
+---
+id: ai-companion
+title: AI Companion
+sidebar_position: 6
+---
+
+# AI Companion
+
+## What is AI Companion?
+
+Depending on your organization, you may have different levels of access to **AI Companion,** a suite of AI-powered writing assistance tools delivered through a conversational chat interface. AI Companion helps you generate summaries, headlines, key takeaways, and alternate versions of your text by processing your input using natural language. Since it operates through a chat interface, you can simply type your requests or commands, making content creation and editing faster, more intuitive, and user-friendly.
+
+✨ **You can improve your AI Companion experience by unlocking Neon's advanced AI capabilities.** If you're interested in enhancing your editorial workflows with features like chat history, file uploads, or real-time responses, feel free to contact the Neon team to explore how we can support your needs with the right AI tools.
+
+## How do I access and use AI Companion?
+
+In Neon, you access AI Companion through the chat interface by clicking the AI logo located at the bottom right corner of the Story Editor or Live Blog. This opens the chat where you can interact directly with AI Companion by typing your requests or selecting text to get assistance with tasks like generating summaries, headlines, key takeaways, or alternate text. The chat makes it easy and intuitive to receive AI-powered help as you work on your content.
+
+![AI Companion Access](/img/userguide-screenshots/image%2075.png)
+
+![AI Companion Chat](/img/userguide-screenshots/image%2076.png)
+
+## Can I create multiple chat sessions in AI Companion?
+
+In the basic version of AI Companion, only one chat session is available at a time. When you select new text in the Story Editor or Live Blog, the previous conversation ends and a new one begins. This ensures the AI stays focused on the most relevant content.
+
+If you're interested in exploring more advanced chat session capabilities or would like to tailor the AI Companion experience to better suit your editorial workflow, feel free to discuss the possibilities with your organization and the Neon team.
+
+## Can I access and continue previous chat sessions in AI Companion?
+
+In the basic AI Companion, you can't access previous chat history, each time you click the AI logo in the Story Editor or Live Blog, a new conversation begins. For this reason, we recommend completing your tasks within a single session before closing the story or starting a new chat.
+
+In a higher tier of the AI Companion premium features, chat history becomes available, allowing you to revisit and continue previous conversations. If you're interested in exploring this functionality, feel free to contact the Neon team to discuss how we can support your editorial workflows.
+
+## What's the best way to use AI Companion for editing specific parts of my text?
+
+One useful tip is to select a specific portion of your text and then open the AI Companion by clicking the AI icon at the bottom-right corner of the Story Editor or Live Blog.
+
+![Select Text for AI](/img/userguide-screenshots/image%2077.png)
+
+Once the AI chat opens, you'll notice a lightbulb icon. Clicking it will show you a set of grouped prompt suggestions tailored to the selected text. These include:
+
+- Summarization
+- Rephrasing
+- Translation
+- Text generation
+- SEO headline creation
+- Social media post generation
+
+It's a quick and targeted way to enhance your content right where you need it
+
+## How can I get the best answer from AI Companion
+
+Depending on your needs, you can use AI Companion in two ways:
+
+- **Select text before asking** to get a more focused and precise answer about that specific part of your story. Use this option when you want detailed help on a particular section or sentence.
+- **Start a new chat without selecting text** to get insights based on the entire story or a broader context. This is great when your question relates to the overall content or general ideas.
+
+To get the best results from AI Companion, try these tips:
+
+- **Be clear and specific** with your question so the AI knows exactly what you're looking for.
+- **Rephrase your prompt** if the first answer isn't quite right, sometimes a different wording brings out a better response.
+- **Include a bit more context** when needed. The more the AI understands your goal, the better it can tailor its reply.

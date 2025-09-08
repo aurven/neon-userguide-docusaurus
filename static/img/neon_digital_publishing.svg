@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1088" height="687.962" viewBox="0 0 1088 687.962">
+  <title>Digital Publishing</title>
+  <g id="Group_Publishing" data-name="Group Publishing" transform="translate(-57 -56)">
+    <g id="Group_Digital" data-name="Group Digital" transform="translate(57 56)">
+      <!-- Background shapes -->
+      <path d="M1017.81,560.461c-5.27,45.15-16.22,81.4-31.25,110.31-20,38.52-54.21,54.04-84.77,70.28a193.275,193.275,0,0,1-27.46,11.94c-55.61,19.3-117.85,14.18-166.74,3.99a657.282,657.282,0,0,0-104.09-13.16q-14.97-.675-29.97-.67c-15.42.02-293.07,5.29-360.67-131.57-16.69-33.76-28.13-75-32.24-125.27-11.63-142.12,52.29-235.46,134.74-296.47,155.97-115.41,369.76-110.57,523.43,7.88C941.15,276.621,1036.99,396.031,1017.81,560.461Z" transform="translate(-56 -106.019)" fill="#3f3d56"/>
+      <path d="M986.56,670.771c-20,38.52-47.21,64.04-77.77,80.28a193.272,193.272,0,0,1-27.46,11.94c-55.61,19.3-117.85,14.18-166.74,3.99a657.3,657.3,0,0,0-104.09-13.16q-14.97-.675-29.97-.67-23.13.03-46.25,1.72c-100.17,7.36-253.82-6.43-321.42-143.29L382,283.981,444.95,445.6l20.09,51.59,55.37-75.98L549,381.981l130.2,149.27,36.8-81.27L970.78,657.9l14.21,11.59Z" transform="translate(-56 -106.019)" fill="#f2f2f2"/>
+      
+      <!-- Central publishing hub -->
+      <circle cx="544" cy="300" r="80" fill="#6c63ff" stroke="#ffffff" stroke-width="6"/>
+      <text x="544" y="290" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="18" font-weight="bold">NEON</text>
+      <text x="544" y="310" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="14" font-weight="bold">PUBLISHING</text>
+      <text x="544" y="325" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="14" font-weight="bold">HUB</text>
+      
+      <!-- Desktop/Web platform -->
+      <rect x="200" y="120" width="120" height="80" fill="#ffffff" stroke="#6c63ff" stroke-width="3" rx="10"/>
+      <rect x="210" y="130" width="100" height="60" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
+      <rect x="220" y="140" width="80" height="8" fill="#6c63ff" rx="4"/>
+      <rect x="220" y="155" width="60" height="4" fill="#dee2e6" rx="2"/>
+      <rect x="220" y="165" width="70" height="4" fill="#dee2e6" rx="2"/>
+      <rect x="220" y="175" width="50" height="4" fill="#dee2e6" rx="2"/>
+      <text x="260" y="85" text-anchor="middle" fill="#6c63ff" font-family="Arial" font-size="12" font-weight="bold">Website</text>
+      
+      <!-- Mobile platform -->
+      <rect x="750" y="140" width="60" height="100" fill="#ffffff" stroke="#6c63ff" stroke-width="3" rx="15"/>
+      <rect x="760" y="155" width="40" height="70" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="3"/>
+      <rect x="765" y="160" width="30" height="6" fill="#6c63ff" rx="3"/>
+      <rect x="765" y="170" width="25" height="3" fill="#dee2e6" rx="1"/>
+      <rect x="765" y="177" width="28" height="3" fill="#dee2e6" rx="1"/>
+      <rect x="765" y="184" width="20" height="3" fill="#dee2e6" rx="1"/>
+      <text x="780" y="130" text-anchor="middle" fill="#6c63ff" font-family="Arial" font-size="12" font-weight="bold">Mobile App</text>
+      
+      <!-- Social media -->
+      <circle cx="300" cy="450" r="40" fill="#1da1f2" stroke="#ffffff" stroke-width="4"/>
+      <text x="300" y="455" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="14" font-weight="bold">Social</text>
+      <text x="300" y="485" text-anchor="middle" fill="#1da1f2" font-family="Arial" font-size="12" font-weight="bold">Twitter/X</text>
+      
+      <!-- Newsletter/Email -->
+      <rect x="680" y="430" width="80" height="60" fill="#28a745" stroke="#ffffff" stroke-width="3" rx="10"/>
+      <rect x="690" y="440" width="60" height="8" fill="#ffffff" rx="4"/>
+      <rect x="690" y="455" width="45" height="4" fill="#ffffff" rx="2"/>
+      <rect x="690" y="465" width="50" height="4" fill="#ffffff" rx="2"/>
+      <rect x="690" y="475" width="35" height="4" fill="#ffffff" rx="2"/>
+      <text x="720" y="510" text-anchor="middle" fill="#28a745" font-family="Arial" font-size="12" font-weight="bold">Newsletter</text>
+      
+      <!-- Print -->
+      <rect x="450" y="120" width="80" height="100" fill="#ffffff" stroke="#6c757d" stroke-width="3" rx="5"/>
+      <rect x="460" y="130" width="60" height="80" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+      <rect x="470" y="140" width="40" height="6" fill="#6c757d" rx="3"/>
+      <rect x="470" y="155" width="35" height="3" fill="#dee2e6" rx="1"/>
+      <rect x="470" y="162" width="40" height="3" fill="#dee2e6" rx="1"/>
+      <rect x="470" y="169" width="30" height="3" fill="#dee2e6" rx="1"/>
+      <rect x="470" y="180" width="40" height="6" fill="#6c757d" rx="3"/>
+      <rect x="470" y="195" width="35" height="3" fill="#dee2e6" rx="1"/>
+      <rect x="470" y="202" width="40" height="3" fill="#dee2e6" rx="1"/>
+      <text x="490" y="105" text-anchor="middle" fill="#6c757d" font-family="Arial" font-size="12" font-weight="bold">Print Edition</text>
+      
+      <!-- RSS/API -->
+      <rect x="180" y="350" width="70" height="50" fill="#ff6584" stroke="#ffffff" stroke-width="3" rx="8"/>
+      <circle cx="215" cy="365" r="8" fill="#ffffff"/>
+      <rect x="205" y="380" width="20" height="3" fill="#ffffff" rx="1"/>
+      <rect x="205" y="385" width="25" height="3" fill="#ffffff" rx="1"/>
+      <rect x="205" y="390" width="15" height="3" fill="#ffffff" rx="1"/>
+      <text x="215" y="415" text-anchor="middle" fill="#ff6584" font-family="Arial" font-size="12" font-weight="bold">RSS/API</text>
+      
+      <!-- Connection lines -->
+      <defs>
+        <marker id="publishArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+          <polygon points="0 0, 8 3, 0 6" fill="#6c63ff"/>
+        </marker>
+      </defs>
+      
+      <!-- Lines connecting hub to platforms -->
+      <line x1="480" y1="240" x2="520" y2="265" stroke="#6c63ff" stroke-width="3" marker-end="url(#publishArrow)"/>
+      <line x1="320" y1="180" x2="480" y2="240" stroke="#6c63ff" stroke-width="3" marker-end="url(#publishArrow)"/>
+      <line x1="624" y1="300" x2="750" y2="200" stroke="#6c63ff" stroke-width="3" marker-end="url(#publishArrow)"/>
+      <line x1="490" y1="360" x2="340" y2="420" stroke="#6c63ff" stroke-width="3" marker-end="url(#publishArrow)"/>
+      <line x1="584" y1="350" x2="680" y2="450" stroke="#6c63ff" stroke-width="3" marker-end="url(#publishArrow)"/>
+      <line x1="470" y1="320" x2="250" y2="370" stroke="#6c63ff" stroke-width="3" marker-end="url(#publishArrow)"/>
+      
+      <!-- Multi-platform indicators -->
+      <rect x="520" y="50" width="48" height="30" fill="#17a2b8" rx="15"/>
+      <text x="544" y="70" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="10" font-weight="bold">MULTI</text>
+      
+      <rect x="520" y="520" width="48" height="30" fill="#17a2b8" rx="15"/>
+      <text x="544" y="540" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="10" font-weight="bold">SYNC</text>
+      
+      <!-- Decorative elements -->
+      <circle cx="3" cy="3" r="3" transform="translate(479 98.962)" fill="#f2f2f2"/>
+      <circle cx="3" cy="3" r="3" transform="translate(396 201.962)" fill="#f2f2f2"/>
+      <circle cx="2" cy="2" r="2" transform="translate(600 220.962)" fill="#f2f2f2"/>
+      <circle cx="2" cy="2" r="2" transform="translate(180 265.962)" fill="#f2f2f2"/>
+      <circle cx="2" cy="2" r="2" transform="translate(612 96.962)" fill="#f2f2f2"/>
+      <circle cx="2" cy="2" r="2" transform="translate(736 192.962)" fill="#f2f2f2"/>
+      <circle cx="2" cy="2" r="2" transform="translate(858 344.962)" fill="#f2f2f2"/>
+      
+      <!-- Base -->
+      <ellipse cx="544" cy="30" rx="544" ry="30" transform="translate(0 583.962)" fill="#3f3d56"/>
+    </g>
+  </g>
+</svg>
