@@ -15,19 +15,19 @@ const QuickLinkList: QuickLinkItem[] = [
     title: 'Dashboards',
     Svg: require('@site/static/img/neon_dashboards.svg').default,
     description: 'Learn how to create and customize dashboards for content overview and analytics',
-    link: '/docs/dashboards',
+    link: '/docs/user-guide/faq#creating-and-customizing-dashboard',
   },
   {
     title: 'Faceted Search',
     Svg: require('@site/static/img/neon_faceted_search.svg').default,
     description: 'Discover powerful search and filtering capabilities for content management',
-    link: '/docs/faceted-search',
+    link: '/docs/user-guide/faceted-search',
   },
   {
     title: 'Webpage Editor',
     Svg: require('@site/static/img/neon_webpage_editor.svg').default,
     description: 'Master the visual editor for creating and editing web content',
-    link: '/docs/webpage-editor',
+    link: '/docs/user-guide/creating-editing-web-pages',
   },
 ];
 

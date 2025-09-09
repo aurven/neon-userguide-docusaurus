@@ -66,9 +66,9 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'defaultSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Docs',
         },
         {
           to: '/blog',
@@ -80,14 +80,14 @@ const config: Config = {
         //   label: 'GitHub',
         //   position: 'right',
         // },
-        {
-          type: 'docsVersionDropdown',
-          position: 'right',
-        },
-        {
-          type: 'localeDropdown',
-          position: 'right',
-        }
+        // {
+        //   type: 'docsVersionDropdown',
+        //   position: 'right',
+        // },
+        // {
+        //   type: 'localeDropdown',
+        //   position: 'right',
+        // }
       ],
     },
     footer: {
