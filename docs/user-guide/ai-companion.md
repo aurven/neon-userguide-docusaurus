@@ -14,7 +14,7 @@ Depending on your organization, you may have different levels of access to **AI 
 
 ## How do I access and use AI Companion?
 
-In Neon, you access AI Companion through the chat interface by clicking the AI logo located at the bottom right corner of the Story Editor or Live Blog. This opens the chat where you can interact directly with AI Companion by typing your requests or selecting text to get assistance with tasks like generating summaries, headlines, key takeaways, or alternate text. The chat makes it easy and intuitive to receive AI-powered help as you work on your content.
+In Neon, you access AI Companion through the chat interface by clicking the AI logo located at the bottom right corner of the Story Editor or Live Blog. This opens the chat where you can interact directly with AI Companion by typing your requests or selecting text to get assistance with tasks like generating summaries, headlines, key takeaways, or alternate text. The chat makes it easy and intuitive to receive AI-powered help as you work on your content. 
 
 ![AI Companion Access](/img/userguide-screenshots/image%2075.png)
 
