@@ -32,6 +32,27 @@ Later, when you want to reuse that search, just click the **Saved queries** butt
 
 ![Saved Queries List](/img/userguide-screenshots/image%20114.png)
 
+## How to update a previously saved query?
+
+Open any saved query you would like to change
+
+![Open Saved Queries](/img/userguide-screenshots/image%20153.png)
+
+![Choose Saved Queries](/img/userguide-screenshots/image%20154.png)
+
+Update the filter parameters to match your search criteria, such as date, type, or any other filter available in the left panel. Then click **Search** to retrieve the matching results.
+
+![Change Filter](/img/userguide-screenshots/image%20157.png)
+
+If you want to save the changes, click **Update Query**
+
+![Change Filter](/img/userguide-screenshots/image%20155.png)
+
+If you want to discard any changes that you make to the filter, click **Discard Changes**
+
+![Change Filter](/img/userguide-screenshots/image%20156.png)
+
+
 ## How can I efficiently search for specific stories or content in Neon?
 
 Finding the right content in Neon can be fast and precise if you make use of its advanced search features. Here are some tips:
