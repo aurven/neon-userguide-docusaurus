@@ -8,7 +8,7 @@ sidebar_position: 8
 
 ## How do I create a new web page?
 
-To create a new webpage, click the "Add" button in the top navigation bar or use the Quick Link from your dashboard (if added). 
+To create a new webpage, click the "Add" button in the top navigation bar or use the Quick Link from your dashboard (if any). 
 
 ![Create Webpage Button](/img/userguide-screenshots/image%2082.png)
 
@@ -20,11 +20,22 @@ Once the information is complete, you'll be directed to the webpage, where you c
 
 ## How do I add stories to a web page?
 
-To add stories to a web page, open the Candidate Browser from the binder. There, you'll find a list of stories or live blogs that you can add to your web page. You can also use the dropdown menu to filter and find stories more easily. For example, by showing the latest stories or by selecting stories from the same workfolder. 
+To add stories to a web page, open the Candidate Browser from the binder. There, you’ll find a list of stories or live blogs that can be added to your page. You can also use the dropdown menu to filter and locate stories more easily.
+
+Several filters are available to help you find the right content, such as options to view the most recent, ready-to-publish, or related stories within the same workspace or folder. These filters make it faster and easier to find relevant stories based on your needs.
+
+![Use query in candidate browser](/img/userguide-screenshots/image%20130.png)
+
+You can also use the **Hide Linked** feature to exclude stories that are already linked within the webpage. This helps you quickly identify existing content and avoid adding duplicates.
+![Hide Linked](/img/userguide-screenshots/image%20131.png)
+
+There are also additional filters you can use to find relevant stories, such as **Paywall** and **Importance Range**.
+![Paywall and Importance Range filter](/img/userguide-screenshots/image%20132.png)
 
 After you find the story you want to add, simply drag it to the section of the webpage where you want it to appear, dropping it into the **Drop items here** area.
+![Drag items](/img/userguide-screenshots/image%20133.png)
 
-![Add Stories to Webpage](/img/userguide-screenshots/image%2084.png)
+Furthermore, you can use the **Live Query** feature to automatically fill your webpage with stories. You can learn more about this in the next section.
 
 ## How do I arrange and remove stories in a webpage?
 
