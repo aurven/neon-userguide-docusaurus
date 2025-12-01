@@ -1,12 +1,12 @@
 ---
-id: faq
-title: FAQ
+id: logging-in-and-dashboard
+title: Logging In & Creating Your Dashboard
 sidebar_position: 1
 ---
 
-# FAQ
+# Logging In & Creating Your Dashboard
 
-This FAQ provides guidance for users working with Neon. It outlines core operations within Neon, offering clear instructions and practical support for each stage of the process, from logging in to publishing content.
+In this section, you’ll find a guide on how to log in and create a dashboard, and explore related FAQs.
 
 ## Logging In
 
