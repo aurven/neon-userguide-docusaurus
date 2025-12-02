@@ -1,29 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
-  <title>Dashboards</title>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
-  <rect width="200" height="200" fill="#f8f9fa" rx="20"/>
-  
-  <!-- Main dashboard container -->
-  <rect x="20" y="30" width="160" height="140" fill="#ffffff" stroke="#6c63ff" stroke-width="3" rx="10"/>
-  
-  <!-- Header bar -->
-  <rect x="30" y="40" width="140" height="25" fill="#6c63ff" rx="5"/>
-  <circle cx="45" cy="52.5" r="3" fill="#ffffff"/>
-  <rect x="55" y="49" width="60" height="7" fill="#ffffff" rx="3"/>
-  
-  <!-- Dashboard widgets -->
-  <rect x="35" y="75" width="60" height="40" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="5"/>
-  <rect x="40" y="85" width="15" height="20" fill="#2196f3"/>
-  <rect x="58" y="90" width="12" height="15" fill="#64b5f6"/>
-  <rect x="73" y="87" width="10" height="18" fill="#42a5f5"/>
-  
-  <rect x="105" y="75" width="65" height="40" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="5"/>
-  <circle cx="125" cy="90" r="8" fill="#9c27b0"/>
-  <circle cx="150" cy="95" r="6" fill="#ba68c8"/>
-  <rect x="130" y="102" width="25" height="8" fill="#9c27b0" rx="4"/>
-  
-  <rect x="35" y="125" width="135" height="35" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="5"/>
-  <rect x="45" y="135" width="115" height="6" fill="#4caf50" rx="3"/>
-  <rect x="45" y="145" width="90" height="4" fill="#81c784" rx="2"/>
-  <rect x="45" y="152" width="105" height="4" fill="#81c784" rx="2"/>
+  <rect width="200" height="200" rx="12" fill="#F5F7FA"/>
+
+  <!-- Top bar -->
+  <rect x="0" y="0" width="200" height="22" fill="#0A5BFF"/>
+  <circle cx="14" cy="11" r="3" fill="white"/>
+  <rect x="24" y="6" width="40" height="10" rx="3" fill="white" opacity="0.8"/>
+
+  <!-- Left panel (narrow) -->
+  <rect x="10" y="32" width="28" height="156" rx="6" fill="#ECEFF4"/>
+
+  <!-- Box 1 -->
+  <rect x="14" y="38" width="20" height="20" rx="4" fill="#D8DEE9"/>
+  <!-- Box 2 -->
+  <rect x="14" y="66" width="20" height="20" rx="4" fill="#D8DEE9"/>
+  <!-- Box 3 -->
+  <rect x="14" y="94" width="20" height="20" rx="4" fill="#D8DEE9"/>
+
+  <!-- Box 4: empty, dashed border, + symbol -->
+  <rect x="14" y="122" width="20" height="20" rx="4"
+        fill="none" stroke="#A0A7B0" stroke-dasharray="4 3" stroke-width="1.5"/>
+  <text x="24" y="137" text-anchor="middle" font-size="14" fill="#A0A7B0" font-family="sans-serif">+</text>
+
+  <!-- Main card -->
+  <rect x="48" y="32" width="142" height="70" rx="8" fill="white" stroke="#E0E5EA"/>
+  <rect x="58" y="42" width="60" height="8" rx="3" fill="#0A5BFF" opacity="0.8"/>
+  <rect x="58" y="56" width="100" height="6" rx="3" fill="#D8DEE9"/>
+  <rect x="58" y="68" width="80" height="6" rx="3" fill="#D8DEE9"/>
+
+  <!-- Right list -->
+  <rect x="48" y="112" width="142" height="76" rx="8" fill="white" stroke="#E0E5EA"/>
+  <rect x="58" y="124" width="90" height="6" rx="3" fill="#D8DEE9"/>
+  <rect x="58" y="138" width="70" height="6" rx="3" fill="#D8DEE9"/>
+  <rect x="58" y="152" width="90" height="6" rx="3" fill="#D8DEE9"/>
+  <rect x="58" y="166" width="50" height="6" rx="3" fill="#D8DEE9"/>
 </svg>

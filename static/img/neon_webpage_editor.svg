@@ -1,54 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
-  <title>Webpage Editor</title>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
-  <rect width="200" height="200" fill="#f8f9fa" rx="20"/>
-  
-  <!-- Editor interface -->
-  <rect x="20" y="30" width="160" height="140" fill="#ffffff" stroke="#6c63ff" stroke-width="3" rx="10"/>
-  
-  <!-- Toolbar -->
-  <rect x="30" y="40" width="140" height="20" fill="#6c63ff" rx="3"/>
-  
-  <!-- Toolbar buttons -->
-  <rect x="35" y="43" width="12" height="14" fill="#ffffff" rx="2"/>
-  <rect x="50" y="43" width="12" height="14" fill="#ffffff" rx="2"/>
-  <rect x="65" y="43" width="12" height="14" fill="#ffffff" rx="2"/>
-  <line x1="80" y1="45" x2="80" y2="55" stroke="#ffffff" stroke-width="1"/>
-  <rect x="85" y="43" width="12" height="14" fill="#ffffff" rx="2"/>
-  <rect x="100" y="43" width="12" height="14" fill="#ffffff" rx="2"/>
-  
-  <!-- Content area with WYSIWYG -->
-  <rect x="30" y="70" width="140" height="90" fill="#fafafa" stroke="#e0e0e0" stroke-width="1" rx="5"/>
-  
-  <!-- Header block -->
-  <rect x="40" y="80" width="120" height="15" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="3"/>
-  <rect x="45" y="85" width="80" height="5" fill="#1976d2" rx="2"/>
-  
-  <!-- Paragraph blocks -->
-  <rect x="40" y="100" width="120" height="8" fill="#ffffff" stroke="#e0e0e0" stroke-width="1" rx="2"/>
-  <rect x="43" y="102" width="100" height="2" fill="#424242" rx="1"/>
-  <rect x="43" y="105" width="85" height="2" fill="#757575" rx="1"/>
-  
-  <rect x="40" y="115" width="120" height="8" fill="#ffffff" stroke="#e0e0e0" stroke-width="1" rx="2"/>
-  <rect x="43" y="117" width="95" height="2" fill="#424242" rx="1"/>
-  <rect x="43" y="120" width="110" height="2" fill="#757575" rx="1"/>
-  
-  <!-- Image block -->
-  <rect x="40" y="130" width="60" height="25" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1" rx="3"/>
-  <rect x="45" y="135" width="50" height="15" fill="#e1bee7" rx="2"/>
-  <circle cx="52" cy="142" r="3" fill="#9c27b0"/>
-  <path d="M58 145 l8 -5 l6 3 l8 -5" stroke="#9c27b0" stroke-width="1" fill="none"/>
-  
-  <!-- Text alongside image -->
-  <rect x="107" y="135" width="48" height="2" fill="#424242" rx="1"/>
-  <rect x="107" y="139" width="45" height="2" fill="#757575" rx="1"/>
-  <rect x="107" y="143" width="35" height="2" fill="#757575" rx="1"/>
-  <rect x="107" y="147" width="40" height="2" fill="#757575" rx="1"/>
-  <rect x="107" y="151" width="30" height="2" fill="#757575" rx="1"/>
-  
-  <!-- Drag handles (indicating blocks can be moved) -->
-  <circle cx="35" cy="87" r="2" fill="#9e9e9e"/>
-  <circle cx="35" cy="104" r="2" fill="#9e9e9e"/>
-  <circle cx="35" cy="119" r="2" fill="#9e9e9e"/>
-  <circle cx="35" cy="142" r="2" fill="#9e9e9e"/>
+  <rect width="200" height="200" rx="12" fill="#F5F7FA"/>
+
+  <!-- Top bar -->
+  <rect x="0" y="0" width="200" height="20" fill="#0A5BFF"/>
+  <rect x="10" y="6" width="30" height="8" rx="3" fill="white" opacity="0.85"/>
+  <circle cx="180" cy="10" r="6" fill="white" opacity="0.9"/>
+
+  <!-- LEFT PANEL (preview) -->
+  <rect x="6" y="28" width="115" height="166" rx="6" fill="white" stroke="#E0E5EA"/>
+
+  <!-- Left Preview: Header -->
+  <rect x="12" y="36" width="103" height="12" rx="3" fill="#CCE4FF"/>
+
+  <!-- Logo circle -->
+  <circle cx="28" cy="60" r="10" fill="#88B8FF"/>
+  <circle cx="28" cy="60" r="5" fill="white" opacity="0.8"/>
+
+  <!-- Site title -->
+  <rect x="44" y="54" width="60" height="10" rx="3" fill="#7AA2F7" opacity="0.9"/>
+
+  <!-- Section label -->
+  <rect x="12" y="78" width="70" height="7" rx="3" fill="#0A5BFF" opacity="0.6"/>
+
+  <!-- Article headline -->
+  <rect x="12" y="92" width="90" height="10" rx="3" fill="#4A4D57" opacity="0.4"/>
+  <rect x="12" y="106" width="75" height="8" rx="3" fill="#4A4D57" opacity="0.3"/>
+
+  <!-- Featured Image -->
+  <rect x="12" y="122" width="103" height="48" rx="6" fill="url(#gradImage)"/>
+
+  <defs>
+    <linearGradient id="gradImage" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#213E6B"/>
+      <stop offset="60%" stop-color="#5078B8"/>
+      <stop offset="100%" stop-color="#FFB38A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Footer lines in preview -->
+  <rect x="12" y="176" width="80" height="6" rx="3" fill="#D8DEE9"/>
+  <rect x="12" y="186" width="60" height="6" rx="3" fill="#D8DEE9"/>
+
+  <!-- RIGHT PANEL — expanded -->
+  <rect x="125" y="28" width="69" height="166" rx="6" fill="white" stroke="#E0E5EA"/>
+
+  <!-- Filters -->
+  <rect x="134" y="38" width="50" height="8" rx="3" fill="#D8DEE9"/>
+  <rect x="134" y="54" width="45" height="6" rx="3" fill="#D8DEE9"/>
+  <rect x="134" y="66" width="42" height="6" rx="3" fill="#D8DEE9"/>
+
+  <!-- Cards -->
+  <rect x="134" y="86" width="55" height="22" rx="4" fill="#F0F2F5" stroke="#E0E5EA"/>
+  <rect x="134" y="114" width="55" height="22" rx="4" fill="#F0F2F5" stroke="#E0E5EA"/>
+  <rect x="134" y="142" width="55" height="22" rx="4" fill="#F0F2F5" stroke="#E0E5EA"/>
 </svg>
