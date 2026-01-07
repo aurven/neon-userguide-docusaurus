@@ -1,7 +1,7 @@
 ---
 id: collaboration-communication
 title: Collaboration and Communication
-sidebar_position: 12
+sidebar_position: 13
 ---
 
 # Collaboration and Communication

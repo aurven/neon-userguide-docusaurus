@@ -1,7 +1,7 @@
 ---
 id: live-query
 title: Live Query
-sidebar_position: 9
+sidebar_position: 10
 ---
 
 # Live Query

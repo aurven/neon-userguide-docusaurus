@@ -1,7 +1,7 @@
 ---
 id: pro-actions
 title: Pro Actions
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Pro Actions

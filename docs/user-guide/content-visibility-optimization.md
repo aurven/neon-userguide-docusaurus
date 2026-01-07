@@ -1,7 +1,7 @@
 ---
 id: content-visibility-optimization
 title: Content Visibility & Optimization
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 # Content Visibility & Optimization

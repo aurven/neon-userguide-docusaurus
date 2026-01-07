@@ -1,7 +1,7 @@
 ---
 id: creating-editing-web-pages
 title: Creating and Editing Web Pages
-sidebar_position: 8
+sidebar_position: 9
 ---
 
 # Creating and Editing Web Pages

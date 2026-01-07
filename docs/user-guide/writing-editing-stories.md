@@ -1,7 +1,7 @@
 ---
 id: writing-editing-stories
 title: Writing and Editing Stories
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Writing and Editing Stories

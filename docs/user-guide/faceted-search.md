@@ -1,7 +1,7 @@
 ---
 id: faceted-search
 title: Faceted Search
-sidebar_position: 11
+sidebar_position: 12
 ---
 
 # Faceted Search

@@ -1,7 +1,7 @@
 ---
 id: publishing-content
 title: Publishing Stories, Live Blog, and Webpages
-sidebar_position: 10
+sidebar_position: 11
 ---
 
 # Publishing Stories, Live Blog, and Webpages

@@ -1,7 +1,7 @@
 ---
 id: writing-editing-live-blog
 title: Writing and Editing Live Blog
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Writing and Editing Live Blog
