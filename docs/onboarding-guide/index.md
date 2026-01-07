@@ -5,6 +5,7 @@ sidebar_label: Sandbox Onboarding
 ---
 
 <!-- Sandbox Onboarding Guide -->
+
 # 1. Sandbox Purpose
 
 The Neon sandbox is a pre-configured, non-production environment that provides access to Neon in a safe and isolated way. It allows users to try the product without affecting live systems or real customer data.

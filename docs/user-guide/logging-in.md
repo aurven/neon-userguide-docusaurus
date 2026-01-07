@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 
 
-# Logging In & Creating Your Dashboard
+# Log in to Neon 
 
 In this section, you’ll find a guide on how to log in to Neon, and explore related FAQs.
 
