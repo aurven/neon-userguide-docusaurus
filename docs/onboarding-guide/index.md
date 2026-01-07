@@ -46,7 +46,7 @@ Once the sandbox is made available, users will receive:
 - A sandbox URL
 - Login credentials for different types of roles
 
-The sandbox is provided for a flexible evaluation period, based on your needs and the agreed trial scope. This period typically lasts **several weeks to month. During this time, users can access the sandbox environment and explore Neon accordingly.
+The sandbox is provided for a flexible evaluation period, based on your needs and the agreed trial scope. This period typically lasts several weeks to month. During this time, users can access the sandbox environment and explore Neon accordingly.
 
 Access rights and available features may be preconfigured for the duration of the sandbox. These settings are intended to support evaluation and guided exploration.
 
