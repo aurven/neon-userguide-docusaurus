@@ -1,7 +1,7 @@
 <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Header -->
-  <rect x="0" y="0" width="200" height="22" fill="#0b5bd3"/>
+  <rect x="0" y="0" width="200" height="22" fill="#2847e2"/>
 
   <!-- Background -->
   <rect x="0" y="22" width="200" height="178" fill="#f5f7fa"/>

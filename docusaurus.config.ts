@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Neon Documentation',
+  title: 'Neon User Guide',
   tagline: 'Simple. Reliable. Fast.',
   favicon: 'img/favicon.ico',
 
@@ -58,7 +58,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/neon-userguide-social-card.jpg',
     navbar: {
-      title: 'Neon Docs',
+      title: 'Neon',
       logo: {
         alt: 'Neon Logo',
         src: 'img/logo_blue.svg',
@@ -68,7 +68,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'defaultSidebar',
           position: 'left',
-          label: 'Docs',
+          label: 'User Guide',
         },
         {
           to: '/blog',
