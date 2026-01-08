@@ -15,7 +15,7 @@ const QuickLinkList: QuickLinkItem[] = [
     title: 'Dashboards',
     Svg: require('@site/static/img/neon_dashboards.svg').default,
     description: 'Learn how to create and customize dashboards for content overview and analytics',
-    link: '/docs/user-guide/logging-in-and-dashboard#creating-and-customizing-dashboard',
+    link: '/docs/user-guide/dashboard',
   },
   {
     title: 'Faceted Search',

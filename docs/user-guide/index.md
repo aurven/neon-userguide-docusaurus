@@ -12,7 +12,6 @@ Welcome to the comprehensive Neon User Guide! This documentation provides detail
 
 This user guide covers everything you need to know about working with Neon:
 
-- **[FAQ](./faq.md)** - Common questions and essential operations like logging in, creating dashboards, and uploading files
 - **[Writing and Editing Stories](./writing-editing-stories.md)** - Complete guide to creating, editing, and formatting stories
 - **[Writing and Editing Live Blog](./writing-editing-live-blog.md)** - Real-time content updates and live blog management  
 - **[Neon's Binder](./neons-binder.md)** - Understanding the powerful right-panel tools for content management
