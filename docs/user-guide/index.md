@@ -17,10 +17,10 @@ This user guide covers everything you need to know about working with Neon:
 - **[Neon's Binder](./neons-binder.md)** - Understanding the powerful right-panel tools for content management
 - **[Pro Actions](./pro-actions.md)** - AI-powered automation tools for content creation and editing
 - **[AI Companion](./ai-companion.md)** - Conversational AI assistance for writing and content optimization
-- **[Content Visibility & Optimization](./content-visibility-optimization.md)** - SEO tools and content optimization features
+- **[Content Visibility & Optimization](./content-visibility-optimization.mdx)** - SEO tools and content optimization features
 - **[Creating and Editing Web Pages](./creating-editing-web-pages.mdx)** - Building and managing web pages with stories and content
 - **[Live Query](./live-query.mdx)** - Automated content population based on rules and criteria
-- **[Publishing Content](./publishing-content.md)** - Publishing stories, live blogs, and web pages
+- **[Publishing Content](./publishing-content.mdx)** - Publishing stories, live blogs, and web pages
 - **[Faceted Search](./faceted-search.mdx)** - Advanced search capabilities for finding content and media
 - **[Collaboration and Communication](./collaboration-communication.md)** - Working with teams, tracking changes, and annotations
 - **[Common Fixes](./common-fixes.md)** - Troubleshooting guide for common issues
