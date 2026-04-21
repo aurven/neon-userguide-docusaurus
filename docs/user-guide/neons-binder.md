@@ -8,15 +8,25 @@ sidebar_position: 5
 
 ## What is the Binder in Neon?
 
-The Binder is a panel located on the right side of the Neon interface that allows users to configure and manage various tools and features related to editing and publishing content. It is accessible when creating or editing a story, live blog, or webpage. The available tools may vary depending on the type of content you are working on, whether it is a story or a webpage. 
+The Binder is a panel located on the right side of the Neon interface that allows users to configure and manage various tools and features related to editing and publishing content.
 
-![Binder Overview](/img/userguide-screenshots/image%2049.png)
+It is accessible across different contexts in Neon — from your dashboard to when you are creating or editing a story, live blog, or webpage. The available tools and options will vary depending on the context
+you are in and the type of content you are working on.
+![Binder Overview](/img/userguide-screenshots/image%20165.png)
 
 ## What are the main tools available in Neon's Binder?
 
+### Preview
+
+This panel is accessible when you're on the Dashboard. It allows you
+to quickly view what's inside a content item without opening it.
+To learn more, read the *Dashboard* section.
+![Preview Panel Dashboard](/img/userguide-screenshots/image%20164.png)
+
+
 ### Publication
 
-This panel is accessible when you're in the Story Editor or Live Blog. It allows you to configure which site the story will be published to. In this section, you can preview how the content will appear on the site, set publishing options such as visibility dates, and unpublish content if needed. To learn more, read the *Publishing Stories, Live Blogs, and Webpage* section.
+This panel is accessible when you're in the Story Editor, Live Blog, or Webpage. It allows you to configure which site the story will be published to. In this section, you can preview how the content will appear on the site, set publishing options such as visibility dates, and unpublish content if needed. To learn more, read the *Publishing Stories, Live Blogs, and Webpage* section.
 
 ![Publication Panel Story](/img/userguide-screenshots/image%2050.png)
 
@@ -24,7 +34,7 @@ This panel is accessible when you're in the Story Editor or Live Blog. It allows
 
 ### Candidate Browser
 
-In a story or live blog, this is where you can find images or related articles stored inside Neon and add them to your content. In a webpage, you can drag and drop articles directly into the page layout. Use the dropdown menu to filter and find the content you're looking for. You can choose to display related images, related stories, related vectorial graphics, or library items from the story's section. 
+In a story, webppage, or live blog, this is where you can find images or related articles stored inside Neon and add them to your content. In a webpage, you can drag and drop articles directly into the page layout. Use the dropdown menu to filter and find the content you're looking for. You can choose to display related images, related stories, related vectorial graphics, or library items from the story's section. 
 
 ![Candidate Browser Story](/img/userguide-screenshots/image%2052.png)
 
