@@ -10,8 +10,9 @@ sidebar_position: 5
 
 The Binder is a panel located on the right side of the Neon interface that allows users to configure and manage various tools and features related to editing and publishing content.
 
-It is accessible across different contexts in Neon — from your dashboard to when you are creating or editing a story, live blog, or webpage. The available tools and options will vary depending on the context
+It is accessible across different contexts in Neon, from your dashboard to when you are creating or editing a story, live blog, or webpage. The available tools and options will vary depending on the context
 you are in and the type of content you are working on.
+
 ![Binder Overview](/img/userguide-screenshots/image%20165.png)
 
 ## What are the main tools available in Neon's Binder?
@@ -21,12 +22,13 @@ you are in and the type of content you are working on.
 This panel is accessible when you're on the Dashboard. It allows you
 to quickly view what's inside a content item without opening it.
 To learn more, read the *Dashboard* section.
+
 ![Preview Panel Dashboard](/img/userguide-screenshots/image%20164.png)
 
 
 ### Publication
 
-This panel is accessible when you're in the Story Editor, Live Blog, or Webpage. It allows you to configure which site the story will be published to. In this section, you can preview how the content will appear on the site, set publishing options such as visibility dates, and unpublish content if needed. To learn more, read the *Publishing Stories, Live Blogs, and Webpage* section.
+This panel is accessible when you're in the Story Editor, Live Blog, or Webpage. It allows you to configure which site the story will be published to. In this section, you can preview how the content will appear on the site, set publishing options such as visibility dates, and unpublish content if needed. To learn more, read the [*Publishing Stories, Live Blogs, and Webpage*](/docs/user-guide/publishing-content) section.
 
 ![Publication Panel Story](/img/userguide-screenshots/image%2050.png)
 
@@ -48,7 +50,7 @@ In a webpage, you can also use the **Hide Linked** toggle to filter out items th
 
 ### Object Panel
 
-This is where you can manage, view, and manipulate individual content elements or "objects" within your story, live blog, or webpag. You can configure SEO, SEM, and metadata for your content. The panel may also include suggestions to help you fill in keywords or metadata fields. These configurations help improve the visibility and performance of your content across search engines and distribution platforms. To learn more, check out the **Content Visibility & Optimization** section.
+This is where you can manage, view, and manipulate individual content elements or "objects" within your story, live blog, or webpag. You can configure SEO, SEM, and metadata for your content. The panel may also include suggestions to help you fill in keywords or metadata fields. These configurations help improve the visibility and performance of your content across search engines and distribution platforms. To learn more, check out the [**Content Visibility & Optimization**](/docs/user-guide/content-visibility-optimization) section.
 
 ![Object Panel Overview](/img/userguide-screenshots/image%2054.png)
 
@@ -106,11 +108,6 @@ Debugger displays detailed technical information about the current content item 
 
 ![Debugger Panel](/img/userguide-screenshots/image%2064.png)
 
-### Annotation
-
-Annotation allows you to view and add notes on specific sections of a story, live blog, or webpage. This is useful for collaboration, as you can leave comments or suggestions for other team members directly within the content.
-
-![Annotations Panel](/img/userguide-screenshots/image%2065.png)
 
 ## Are there any additional tools or extensions I can use in the Binder?
 
