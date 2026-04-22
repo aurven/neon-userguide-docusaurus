@@ -28,7 +28,7 @@ This user guide covers everything you need to know about working with Neon:
 
 ## Getting Started
 
-If you're new to Neon, we recommend starting with the **FAQ** section, which covers essential operations like logging in, creating dashboards, and basic navigation. From there, explore the specific sections that match your role and responsibilities.
+If you're new to Neon, we recommend starting with the [**Getting Started**](/docs/getting-started) section, which covers essential operations like logging in, creating dashboards, and basic navigation. From there, explore the specific sections that match your role and responsibilities.
 
 ## Premium Features
 
@@ -36,4 +36,4 @@ Some sections cover advanced AI features like Pro Actions and AI Companion. Thes
 
 ## Need Help?
 
-Each section includes practical examples, step-by-step instructions, and troubleshooting tips. If you can't find what you're looking for, check the **Common Fixes** section or reach out to the Neon support team as described in the **Help & Feedback** section.
+Each section includes practical examples, step-by-step instructions, and troubleshooting tips. If you can't find what you're looking for, check the [**Common Fixes**](/docs/user-guide/common-fixes) section or reach out to the Neon support team as described in the [**Help & Feedback**](/docs/user-guide/help-feedback) section.

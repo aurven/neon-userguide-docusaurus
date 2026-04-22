@@ -6,4 +6,4 @@ sidebar_position: 15
 
 # Need Help or Want to Share Feedback?
 
-If you'd like to suggest a product improvement, explore a new feature, or report a potential issue, feel free to reach out directly to the **Neon product or support team**. Whether it's feedback, a technical concern, or a new idea, we're always happy to hear from you and support your experience.
+If you'd like to suggest a product improvement, explore a new feature, or report a potential issue, feel free to reach out directly to the **Neon product or support team** at [product-management@eidosmedia.com](mailto:product-management@eidosmedia.com). Whether it's feedback, a technical concern, or a new idea, we're always happy to hear from you and support your experience.
