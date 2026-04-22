@@ -34,11 +34,17 @@ This panel is accessible when you're in the Story Editor, Live Blog, or Webpage.
 
 ### Candidate Browser
 
-In a story, webppage, or live blog, this is where you can find images or related articles stored inside Neon and add them to your content. In a webpage, you can drag and drop articles directly into the page layout. Use the dropdown menu to filter and find the content you're looking for. You can choose to display related images, related stories, related vectorial graphics, or library items from the story's section. 
+In a story, webpage, or live blog, this is where you can find images or related articles stored inside Neon and add them to your content.
+![Candidate Browser Story](/img/userguide-screenshots/image%20167.png)
 
-![Candidate Browser Story](/img/userguide-screenshots/image%2052.png)
+Use the dropdown menu to filter and find the content you're looking for. You can choose to display related images, related stories, or cintents from the same wokrspace. 
+You can also apply additional filters such as paywall and importance level to narrow down your results.
+![Candidate Browser Story](/img/userguide-screenshots/image%20166.png)
 
-![Candidate Browser Webpage](/img/userguide-screenshots/image%2053.png)
+
+In a webpage, you can also use the **Hide Linked** toggle to filter out items that have already been linked to the webpage.
+![Candidate Browser Webpage](/img/userguide-screenshots/image%20169.png)
+
 
 ### Object Panel
 
