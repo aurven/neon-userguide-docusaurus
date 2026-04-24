@@ -1,7 +1,7 @@
 ---
 id: workflow-assignment
 title: Workflow and Assignment
-sidebar_position: 13
+sidebar_position: 11
 ---
 
 # Workflow and Assignment
@@ -47,4 +47,3 @@ To review changes, open your Story, Liveblog, or WebPage, then click the **Binde
 
 ![Version History](/img/userguide-screenshots/image%20117.png)
 
-In the **Annotations** section of the Binder, you'll find comments or notes left by other contributors. This allows you to keep track of feedback, suggestions, or important context shared during the editing process, helping you stay aligned with your team.

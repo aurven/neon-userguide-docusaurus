@@ -22,4 +22,4 @@ Access to features and actions in the system may vary depending on your role, wh
 
 All permissions in Neon are assigned based on your role, responsibilities, and editorial needs. If you need access to specific content, features, or capabilities that are currently restricted, please contact your organization's administrator to request a role update or additional permissions.
 
-For more details about role-based access, please refer to our [technical documentation](https://neon-app-demo.eks-dev.dev.eidosmedia.io/neon/docs/).
+For more details about role-based access, please refer to our technical documentation. 
